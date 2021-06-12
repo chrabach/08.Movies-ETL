@@ -7,8 +7,8 @@ ETL_Deliverable2_starter_code.ipynb
 01.MovielensExtract.ipynb
 02.Transform.ipynb
 ETL_function_test_BACKUP.ipynb
-movies_metadata.csv
-wikipedia-movies.json
+#movies_metadata.csv
+#wikipedia-movies.json
 config.py
 Resources/ratings.csv
 
