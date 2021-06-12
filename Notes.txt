@@ -1,0 +1,22 @@
+
+where to pick up:
+
+a02_testing6_maintestingground.ipynb
+A02_ETL_clean_wiki_movies.ipynb
+
+http://localhost:8888/notebooks/08.Movies-ETL/02.Transform.ipynb
+
+
+
+#personal git ignores
+ratings.csv
+ETL_Deliverable3_starter_code.ipynb
+ETL_Deliverable1_starter_code.ipynb
+ETL_Deliverable2_starter_code.ipynb
+01.MovielensExtract.ipynb
+movies_metadata.csv
+wikipedia-movies.json
+config.py
+
+
+

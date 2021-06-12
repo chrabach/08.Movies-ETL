@@ -1,3 +1,20 @@
+
+#personal git ignores
+ratings.csv
+ETL_Deliverable3_starter_code.ipynb
+ETL_Deliverable1_starter_code.ipynb
+ETL_Deliverable2_starter_code.ipynb
+01.MovielensExtract.ipynb
+02.Transform.ipynb
+ETL_function_test_BACKUP.ipynb
+movies_metadata.csv
+wikipedia-movies.json
+config.py
+Resources/ratings.csv
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
